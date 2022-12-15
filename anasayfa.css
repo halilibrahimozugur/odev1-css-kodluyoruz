@@ -1,0 +1,21 @@
+.baslik {
+  text-align: center;
+  color: red;
+}
+
+.linkler {
+  text-align: center;
+}
+
+.urunler-ve-aciklamalari {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+img {
+  border-radius: 50px;
+  max-width: 600px;
+}
